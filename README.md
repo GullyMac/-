@@ -6,8 +6,8 @@
 > Subject : Clustering, Regression\
 > Role : Modeling, Source code customizing
 
-Source Code : https://github.com/GullyMac/PlayStore/blob/master/sales_code.ipynb
+Source Code : https://github.com/GullyMac/Sales_incomplete/blob/master/sales_code.ipynb
 
-Report : https://github.com/GullyMac/PlayStore/blob/master/sales_report.pdf
+Report : https://github.com/GullyMac/Sales_incomplete/blob/master/sales_report.pdf
 
 20.08.21 last edit
